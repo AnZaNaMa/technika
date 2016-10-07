@@ -1,0 +1,16 @@
+[
+{
+  "modid": "technika",
+  "name": "Technika",
+  "description": "A mod that makes tech things through magic",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.AnZaNaMa.com",
+  "updateUrl": "",
+  "authorList": ["AnZaNaMa"],
+  "credits": "Just me for now",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

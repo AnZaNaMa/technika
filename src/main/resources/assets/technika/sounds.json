@@ -1,0 +1,7 @@
+{
+  "shock": {
+    "category": "player",
+    "subtitle": "technika.subtitle.shock",
+    "sounds": ["technika:shock"]
+  }
+}
